@@ -1,5 +1,6 @@
 body {
-    color: deeppink;
+    background-color: rgb(162, 221, 162);
+    color: rgba(102, 23, 65, 0.763);
     text-align: center;
-    font-family: "Arial";
+    font-family: "fantasy";
 }
