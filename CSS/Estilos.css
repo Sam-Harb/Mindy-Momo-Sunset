@@ -4,3 +4,19 @@ body {
     text-align: center;
     font-family: "fantasy";
 }
+
+#cabecera {
+    color: rgba(240, 202, 158, 0.763);
+    box-shadow: 0px 5px 30px 10px rgba(0,0,0,0.75);
+    background-color: green;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline {
+    color: rgba(230, 172, 203, 0.763);
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
