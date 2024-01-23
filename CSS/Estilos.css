@@ -3,7 +3,6 @@ body {
     color: rgba(102, 23, 65, 0.763);
     text-align: center;
     font-family: "fantasy";
-    margin: 0.5em;
 }
 
 #cabecera {
@@ -20,4 +19,8 @@ body {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+#introduccion {
+    margin: 5em;
 }
