@@ -30,11 +30,17 @@ body {
 }
 
 #introduccion {
-    margin-left: 10em;
-    margin-right: 10em;
-    margin-top: 3em;
-    margin-bottom: 5em;
-    border: dotted pink;
+    margin-left: 8em;
+    margin-right: 8em;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    border: 3px dotted rgb(239, 109, 178);
     font-display:fallback;
     text-align: justify;
+}
+p {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
