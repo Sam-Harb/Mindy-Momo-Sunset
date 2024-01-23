@@ -6,7 +6,7 @@ body {
 }
 
 #container {
-    box-sizing: content-box;
+    border-color:black; 
 }
 #cabecera {
     color: rgba(240, 202, 158, 0.763);
