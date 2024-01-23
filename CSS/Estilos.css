@@ -6,7 +6,9 @@ body {
 }
 
 #container {
-    border:1px black; 
+    border-top: 5px dotted green;
+  border-right: 1px solid black;
+  border-bottom: 20px double rgb(23 45 145); 
 }
 #cabecera {
     color: rgba(240, 202, 158, 0.763);
