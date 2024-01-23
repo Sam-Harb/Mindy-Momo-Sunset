@@ -6,6 +6,8 @@ body {
 }
 
 #container { 
+    margin-left: 5em;
+    margin-right: 5em;
     border-top: 5px dotted green;
   border-right: 5px dotted green;
   border-left:5px dotted green;
@@ -28,7 +30,10 @@ body {
 }
 
 #introduccion {
-    margin: 5em;
+    margin-left: 10em;
+    margin-right: 10em;
+    margin-top: 3em;
+    margin-bottom: 5em;
     font-display:fallback;
     text-align: justify;
 }
